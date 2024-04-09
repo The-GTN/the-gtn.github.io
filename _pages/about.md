@@ -11,7 +11,7 @@ redirect_from:
     <img src="https://the-gtn.github.io/files/hello.gif" align="center" height="" width="300" />
 </div>
 
-### <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French future PhD student in Computer Sciences 🇫🇷</div>
+<div align="center" width="200"> <strong> I am Antoine "The Great Teacher" Nollet, a French future PhD student in Computer Sciences 🇫🇷 </strong></div>
 
 <p align="center">
     <a href="mailto:antoine.nollet@ens-rennes.fr">
@@ -24,7 +24,7 @@ redirect_from:
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://antoinenollet3.wixsite.com/presentation">
-        <img height="28" src="https://svgshare.com/i/13xt.svg" />
+        <img height="28px" src="https://svgshare.com/i/13xt.svg" />
     </a>
 </p>
 
