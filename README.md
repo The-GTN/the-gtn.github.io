@@ -2,7 +2,11 @@
     <img src="https://the-gtn.github.io/files/hello.gif" align="center" height="" width="300" />
 </div>
 
-### <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French future PhD student in Computer Sciences 🇫🇷</div>
+### <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French PhD student in Computer Sciences 🇫🇷</div>
+
+### <div align="center" width="200">Here my PhD title : <I>"Automatic Information Management for Collaborative Spaces"</div>
+
+<br>
 
 <p align="center">
     <a href="mailto:antoine.nollet@ens-rennes.fr">
