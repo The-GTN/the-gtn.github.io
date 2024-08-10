@@ -18,21 +18,39 @@ Education
 
 Work experience
 ======
+* October 2024 - October 2027: PhD Student
+  * Loki team at INRIA/CRIStal laboratory and 
+  * PhD title : *"Automatic Information Management for Collaborative Spaces"*
+  * Supervisors : [Malacria Sylvain](mailto:sylvain.malacria@inria.fr), [Fruchard Bruno](mailto:bruno.fruchard@inria.fr) and [Griggio Carla](mailto:cfg@cs.aau.dk)
 * March-July 2023: R&D Intern
-  * Mint blabla
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+  * Mint team at CRIStAL laboratory
+  * Duties includes: Research bibliography, implementations, experimental protocol, data analysis
+  * Supervisor: [Berthaut Florent](mailto:florent.berthaut@univ-lille.fr)
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Programming
+    * Python, Java, C, C#, C++, Qt Creator, Netlogo
+  * Game Engine
+    * Godot, Unity, Unreal Engine 5
+  * Web Development
+    * HTML, CSS, JS, Node.js, MongoDB, PHP, PostgreSQL, React
+  * Phone App Development
+    * Android Studio, Java, Kotlin, Unity
+  * Statistic, Linear Model and functionnal programming
+    * Haskell, Ocaml, AMPL, R, JASP 
+* Speaking Languages
+  * Français : C2
+  * Anglais : B2
+  * Espagnol : B1
+* Team Management, Leadership
+* Team Working
+* Improvisation, Adaptation
+* Creativity
+* Management
+
 
 Publications
 ======
@@ -54,4 +72,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2021-2023 : FILLy founder and project manager [More Details](https://pedagogie.ac-lille.fr/numerique-et-sciences-informatiques/wp-content/uploads/sites/45/2021/12/Explications-FIlly.pdf)
+* 2022-2022 : AEI event manager [About AEI](https://www.instagram.com/aei_lille/)
