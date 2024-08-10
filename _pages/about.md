@@ -12,9 +12,9 @@ redirect_from:
     <img src="https://the-gtn.github.io/files/hello.gif" align="center" height="" width="300" />
 </div>
 
-<h3> <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French PhD student in Computer Sciences 🇫🇷</div> </h3>
+<h3> <div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French PhD student in Computer Sciences 🇫🇷 </div> </h3>
 
-<h3> <div align="center" width="200">Here my PhD title : <I>"Automatic Information Management for Collaborative Spaces"</div></h3>
+<h3> <div align="center" width="200">Here my PhD title : <I>"Automatic Information Management for Collaborative Spaces" </I> </div> </h3>
 
 <br>
 
