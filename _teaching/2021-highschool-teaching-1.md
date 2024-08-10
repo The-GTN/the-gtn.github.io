@@ -8,8 +8,8 @@ date: 2021-05-08
 location: "Tourcoing, France"
 ---
 
-Highschool Internship : teaching begigging programmers and making informatic room
-===
+Programming for beginners and making informatic room
+---
 
 I was giving courses to 2nd and 3rd highschool pupils in computer science, from python programming to network understanding. Pupils had projects to do. I managed to organize a informatic room with files server (LDAP connections and NFS system).
 

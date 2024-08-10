@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<br>
 
 <div align="center">
     <img src="https://the-gtn.github.io/files/hello.gif" align="center" height="" width="300" />

@@ -8,8 +8,8 @@ date: 2022-11-10
 location: "Villeneuve d'Ascq, France"
 ---
 
-UEPE Intégration à Distance
-===
+Tuteur pour UEPE Integration à Distance
+---
 
 This course was a distance one, students had atonomous work to do about discovering the Lille university environment. I was advisor and so I answered the questions of students who struggled to do this work. I also organized Zoom conferences in order to help all the students, even the most shy of them.
 
