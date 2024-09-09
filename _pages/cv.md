@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /profile
 ---
 
 {% include base_path %}
@@ -74,3 +75,7 @@ Service and leadership
 ======
 * 2021-2023 : FILLy founder and project manager [More Details](https://pedagogie.ac-lille.fr/numerique-et-sciences-informatiques/wp-content/uploads/sites/45/2021/12/Explications-FIlly.pdf)
 * 2022-2022 : AEI event manager [About AEI](https://www.instagram.com/aei_lille/)
+
+#### PDF File
+
+Find [here](https://the-gtn.github.io/files/Resume.pdf) the PDF version of my CV. 👋
