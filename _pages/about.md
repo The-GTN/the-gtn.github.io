@@ -25,16 +25,16 @@ redirect_from:
 <br>
 
 <p align="center">
-    <a href="mailto:antoine.nollet@ens-rennes.fr">
+    <a href="mailto:antoine.nollet@ens-rennes.fr" target="_blank">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://discordapp.com/users/502400618913202177">
+    <a href="https://discordapp.com/users/502400618913202177" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/antoine-nollet/">
+    <a href="https://www.linkedin.com/in/antoine-nollet/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://antoinenollet3.wixsite.com/presentation">
+    <a href="https://antoinenollet3.wixsite.com/presentation" target="_blank">
         <img width="100" src="https://svgshare.com/i/13xt.svg" />
     </a>
 </p>

@@ -10,8 +10,8 @@ citation: 'A Nollet (2023). &quot;Master Dissertation about Flocking Boids.&quot
 ---
 
 
-This work is my Master Dissertation about the Boids model of C.Reynolds (1987) ([https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/])(https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/). During this work, I made a simulation, make some analysis and tell about some differents uses of this model.
+This work is my Master Dissertation about the Boids model of C.Reynolds (1987) (<a target="_blank" href="https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/"> https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/</a>). During this work, I made a simulation, make some analysis and tell about some differents uses of this model.
 
-You can look at the project repository : [https://gitlab.univ-lille.fr/antoine.nollet.etu/flocking-simulator](https://gitlab.univ-lille.fr/antoine.nollet.etu/flocking-simulator)
+You can look at the project repository : <a target="_blank" href="https://gitlab.univ-lille.fr/antoine.nollet.etu/flocking-simulator">https://gitlab.univ-lille.fr/antoine.nollet.etu/flocking-simulator</a>
 
-You can look at the project video (a naive one) : [https://www.youtube.com/watch?v=dCvdTZppRJg](https://www.youtube.com/watch?v=dCvdTZppRJg)
+You can look at the project video (a naive one) : <a target="_blank" href="https://www.youtube.com/watch?v=dCvdTZppRJg">https://www.youtube.com/watch?v=dCvdTZppRJg</a>

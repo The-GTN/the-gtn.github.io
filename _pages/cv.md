@@ -22,11 +22,12 @@ Work experience
 * October 2024 - October 2027: PhD Student
   * Loki team at INRIA/CRIStal laboratory and 
   * PhD title : *"Automatic Information Management for Collaborative Spaces"*
-  * Supervisors : [Malacria Sylvain](mailto:sylvain.malacria@inria.fr), [Fruchard Bruno](mailto:bruno.fruchard@inria.fr) and [Griggio Carla](mailto:cfg@cs.aau.dk)
+  * Supervisors : <a target="_blank" href="https://www.malacria.com/">Malacria Sylvain</a>, <a target="_blank" href="https://brunofruchard.com/">Fruchard Bruno</a> and <a target="_blank" href="https://carlagriggio.com/">Griggio Carla</a>
 * March-July 2023: R&D Intern
   * Mint team at CRIStAL laboratory
   * Duties includes: Research bibliography, implementations, experimental protocol, data analysis
-  * Supervisor: [Berthaut Florent](mailto:florent.berthaut@univ-lille.fr)
+  * Main subjects : Haptic devices, Extended reality, immersion feeling and many-to-many interactions
+  * Supervisor: <a target="_blank" href="https://pro.univ-lille.fr/florent-berthaut">Berthaut Florent</a>
 
   
 Skills
@@ -73,9 +74,9 @@ Teaching
   
 Service and leadership
 ======
-* 2021-2023 : FILLy founder and project manager [More Details](https://pedagogie.ac-lille.fr/numerique-et-sciences-informatiques/wp-content/uploads/sites/45/2021/12/Explications-FIlly.pdf)
-* 2022-2022 : AEI event manager [About AEI](https://www.instagram.com/aei_lille/)
+* 2021-2023 : FILLy founder and project manager <a target="_blank" href="https://pedagogie.ac-lille.fr/numerique-et-sciences-informatiques/wp-content/uploads/sites/45/2021/12/Explications-FIlly.pdf">More Details</a>
+* 2022-2022 : AEI event manager <a target="_blank" href="https://www.instagram.com/aei_lille/">About AEI</a>
 
 #### PDF File
 
-Find [here](https://the-gtn.github.io/files/Resume.pdf) the PDF version of my CV. 👋
+Find <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">here</a> the PDF version of my CV. 👋

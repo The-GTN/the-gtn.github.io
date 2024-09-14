@@ -13,4 +13,4 @@ Programming for beginners and making informatic room
 
 I was giving courses to 2nd and 3rd highschool pupils in computer science, from python programming to network understanding. Pupils had projects to do. I managed to organize a informatic room with files server (LDAP connections and NFS system).
 
-Here my report for this experience : [report](http://the-gtn.github.io/files/highschool-internship-report.pdf)
+Here my report for this experience : <a href="http://the-gtn.github.io/files/highschool-internship-report.pdf" target="_blank">my report</a>
