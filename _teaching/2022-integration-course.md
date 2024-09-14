@@ -1,4 +1,4 @@
-<a target="_blank" href="---
+---
 title: "UEPE Integration à distance"
 collection: teaching
 type: "university course"
