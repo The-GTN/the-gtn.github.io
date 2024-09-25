@@ -25,7 +25,7 @@ redirect_from:
 <br>
 
 <p align="center">
-    <a href="mailto:antoine.nollet@ens-rennes.fr" target="_blank">
+    <a href="mailto:antoine.nollet@univ-lille.fr" target="_blank">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://discordapp.com/users/502400618913202177" target="_blank">
