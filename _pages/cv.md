@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * October 2024 - October 2027: PhD Student
-  * Loki team at INRIA/CRIStal laboratory and 
+  * Loki team at INRIA/CRIStal laboratory
   * PhD title : *"Automatic Information Management for Collaborative Spaces"*
   * Supervisors : <a target="_blank" href="https://www.malacria.com/">Malacria Sylvain</a>, <a target="_blank" href="https://brunofruchard.com/">Fruchard Bruno</a> and <a target="_blank" href="https://carlagriggio.com/">Griggio Carla</a>
 * March-July 2023: R&D Intern
