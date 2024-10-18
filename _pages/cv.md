@@ -79,4 +79,4 @@ Service and leadership
 
 #### PDF File
 
-Find <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">here</a> the PDF version of my CV. 👋
+Feel free to look at <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">the light mode</a> or <a target="_blank" href="https://the-gtn.github.io/files/DarkResume.pdf">the dark mode</a> of the PDF of my CV. 👋
