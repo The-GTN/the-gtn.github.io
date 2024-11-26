@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a target="_blank" href="https://antoinenollet3.wixsite.com/presentation">
-        <img width="100" src="https://svgshare.com/i/13xt.svg" />
+        <img width="75" src="https://img.shields.io/badge/Wix-674FE6?style=for-the-badge&logo=wix&logoColor=white" />
     </a>
 </p>
 
