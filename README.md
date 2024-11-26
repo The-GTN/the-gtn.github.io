@@ -3,7 +3,7 @@
 </div>
 
 <h3>
-<div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French PhD student in Computer Sciences 🇫🇷 
+<div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French 1st year PhD student in Computer Sciences 🇫🇷 
 </div>
 </h3>
 
@@ -24,8 +24,11 @@
     <a target="_blank" href="https://www.linkedin.com/in/antoine-nollet/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a target="_blank" href="https://github.com/The-GTN">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <a target="_blank" href="https://antoinenollet3.wixsite.com/presentation">
-        <img width="75" src="https://img.shields.io/badge/Wix-674FE6?style=for-the-badge&logo=wix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Website-674FE6?style=for-the-badge&logo=wix&logoColor=white" />
     </a>
 </p>
 
