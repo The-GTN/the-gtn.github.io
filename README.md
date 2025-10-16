@@ -3,7 +3,7 @@
 </div>
 
 <h3>
-<div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French 1st year PhD student in Computer Sciences 🇫🇷 
+<div align="center" width="200">I am Antoine "The Great Teacher" Nollet, a French 2nd year PhD student in Computer Sciences 🇫🇷 
 </div>
 </h3>
 
