@@ -8,14 +8,14 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<a target="_blank" href="https://the-gtn.github.io/"><img src="{{ author.avatar }}" alt="{{ author.name }}"></a>
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <a target="_blank" href="https://the-gtn.github.io/"><h3 class="author__name">{{ author.name }}</h3></a>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
@@ -25,7 +25,7 @@
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
-        <li class="author__desktop"><a target="_blank" href="https://maps.app.goo.gl/nX8UAaHa3B3eXVma9"> class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</a></li>
+        <li class="author__desktop"><a target="_blank" href="https://maps.app.goo.gl/nX8UAaHa3B3eXVma9"> <i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><a target="_blank" href="https://maps.app.goo.gl/XEX5Vx2zR5Q9Mcrx8"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
