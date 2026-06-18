@@ -20,9 +20,12 @@ Education
 Work experience
 ======
 * October 2024 - October 2027: PhD Student
-  * Loki team at INRIA/CRIStal laboratory
+  * Loop team at INRIA/CRIStal laboratory
   * PhD title : *"Automatic Information Management for Collaborative Spaces"*
   * Supervisors : <a target="_blank" href="https://www.malacria.com/">Malacria Sylvain</a>, <a target="_blank" href="https://brunofruchard.com/">Fruchard Bruno</a> and <a target="_blank" href="https://carlagriggio.com/">Griggio Carla</a>
+* January 2026 - May 2026: Visiting PhD student
+  * <a target="_blank" href="https://vbn.aau.dk/da/projects/human-centered-design-principles-for-effective-management-of-soci/activities/">mInt project</a> at <a target="_blank" href="https://www.cs.aau.dk/research/research-groups/human-augmentation-and-collaboration-hac">HAC</a> research group
+  * Copenhagen (CPH) section of Computer Science Department, Aalborg University (AAU)
 * March-July 2023: R&D Intern
   * Mint team at CRIStAL laboratory
   * Duties includes: Research bibliography, implementations, experimental protocol, data analysis
@@ -51,7 +54,7 @@ Skills
 * Team Working
 * Improvisation, Adaptation
 * Creativity
-* Management
+* Event Management
 
 
 Publications
@@ -79,4 +82,4 @@ Service and leadership
 
 #### PDF File
 
-Feel free to look at <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">the light mode</a> or <a target="_blank" href="https://the-gtn.github.io/files/DarkResume.pdf">the dark mode</a> of the PDF of my CV. 👋
+Feel free to look at <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">the light mode</a>, <a target="_blank" href="https://the-gtn.github.io/files/DarkResume.pdf">the dark mode or the academic version </a> of the PDF of my CV. 👋
