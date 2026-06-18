@@ -82,4 +82,4 @@ Service and leadership
 
 #### PDF File
 
-Feel free to look at <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">the light mode</a>, <a target="_blank" href="https://the-gtn.github.io/files/DarkResume.pdf">the dark mode or the academic version </a> of the PDF of my CV. 👋
+Feel free to look at <a target="_blank" href="https://the-gtn.github.io/files/Resume.pdf">the light mode</a>, <a target="_blank" href="https://the-gtn.github.io/files/DarkResume.pdf">the dark mode</a> or <a target="_blank" href="https://the-gtn.github.io/files/Academic CV.pdf">the academic version</a> of the PDF of my CV. 👋
